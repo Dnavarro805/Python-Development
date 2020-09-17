@@ -1,6 +1,6 @@
 ################################################################################
 ## Student Name: Daniel Navarro                      Programming Fundamentals ##
-## program name: Formulas.py                          CS V11                  ##
+## program name: Formulas.py                         CS V11                   ##
 ## Comment     : Covering Chapter 2 Assingment       Summer of 2016           ##
 ##               More on print command               Ventura College          ##
 ##                                                   Professor RM Polito      ##
