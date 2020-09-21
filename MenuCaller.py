@@ -50,15 +50,19 @@ def MyMenu():
 
     EjectTheLine(2)
     MarginLeft(20)
-    print ("[B] - Do the First Formula Computation")
+    print ("[B] - Three-digit EVEN on First While Loop Command")
 
     EjectTheLine(2)
     MarginLeft(20)
-    print ("[C] - Three-digit EVEN on First While Loop Command")
+    print ("[C] - Two-digit ODD on the Second While Loop Command")
 
     EjectTheLine(2)
     MarginLeft(20)
-    print ("[D] - Two-digit ODD on the Second While Loop Command")
+    print ("[D] - Do the First List")
+    
+    EjectTheLine(2)
+    MarginLeft(20)
+    print ("[E] - Do the Second List")
 
     EjectTheLine(2)
     MarginLeft(20)
