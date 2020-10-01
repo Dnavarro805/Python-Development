@@ -1,20 +1,18 @@
-Programming Python
+# Programming Python
 
-Data Structures and Algorithms
+## Data Structures and Algorithms
 
-Overview -
+## Overview -
 
-Data Structures - 
-
+### Data Structures - 
 1. Arrays
 
 
-Algorithms -
-
+### Algorithms -
 1. 
 
 
-Programming Fundamentals
+## Programming Fundamentals
 
 Overview -
 
