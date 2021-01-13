@@ -19,7 +19,7 @@ def first_recurring_character(myList):
             if myList[i] == myList[j]:
                 return myList[i]
             else:
-                return myList[j]
+                return 0
     return 0
 
 #  Time Complexity: O(n)
